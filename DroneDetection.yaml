@@ -1,0 +1,6 @@
+train: ../DroneDetectionDataset/images/train/
+val: ../DroneDetectionDataset/images/val/
+test: ../DDroneDetectionDataset/images/test/
+
+nc: 4
+names: ["airplane", "bird", "drone", "helicopter"]
